@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=360&height=44&lines=Just%20Stupid%20Guy" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com/demo/?weight=500&size=28&color=5F26F7&background=F2FF8700&vCenter=true&repeat=false&random=true&lines=Just+Stupid+Guy" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
