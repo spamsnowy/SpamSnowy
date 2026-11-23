@@ -4,7 +4,7 @@
 I'm a university student passionate about programming and building cool things. I enjoy exploring new ideas, learning new skills, and turning creative thoughts into real world projects.  
 I'm interested in game development, and software engineering. Always curious, always learning, and always looking for the next challenge.  
 **Learn. Build. Create. Repeat.**
-
+---
 ### 🛠️ Tech Stack
 
 <p align="left">
@@ -36,7 +36,7 @@ I'm interested in game development, and software engineering. Always curious, al
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
-
+---
 ### 📈 Contribution Graph
 
 <p align="center">
